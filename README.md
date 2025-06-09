@@ -39,7 +39,7 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasvinicius5&show_icons=true&theme=tokyonight&count_private=false" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&theme=tokyonight" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&theme=tokyonight" />
 </div>
 
 ---
