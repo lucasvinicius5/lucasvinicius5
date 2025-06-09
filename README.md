@@ -24,7 +24,7 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -38,7 +38,7 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasvinicius5&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasvinicius5&show_icons=true&theme=tokyonight&count_private=false" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&theme=tokyonight" />
 </div>
 
