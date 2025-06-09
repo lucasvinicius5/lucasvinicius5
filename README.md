@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,4B0082&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC,9A4DFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B59B6&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Vinícius;Bem-vindo+ao+meu+GitHub!+💻)](https://git.io/typing-svg)
 
@@ -61,4 +61,4 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF,BB86FC&height=120&section=footer"/>
