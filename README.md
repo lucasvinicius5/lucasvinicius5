@@ -46,9 +46,8 @@ Sou um **Desenvolvedor Back-end** apaixonado por resolver problemas com código 
 
 ## 📫 Contato
 
-- E-mail: lucasdotvin@gmail.com  
-- LinkedIn: [linkedin.com/in/lucasdotvin](https://www.linkedin.com/in/lucas-vinicius-35a5b4274)  
-- Twitter: [@lucasdotvin](https://twitter.com/lucasdotvin)
+- E-mail: plucasvinicius5@gmail.com  
+- LinkedIn: [linkedin.com/in/lucas-vinicius-35a5b4274](https://www.linkedin.com/in/lucas-vinicius-35a5b4274)
 
 ---
 
