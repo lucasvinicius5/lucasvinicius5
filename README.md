@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 💡 Desenvolvedor Back-end com foco em eficiência, escalabilidade e boas práticas.
+### 💡 Analista de Sistemas com foco em eficiência, escalabilidade e boas práticas.
 
 </div>
 
