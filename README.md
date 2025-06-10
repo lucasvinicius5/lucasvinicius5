@@ -14,7 +14,7 @@
 
 Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código limpo e funcional. Trabalho principalmente com back-end, mas estou sempre explorando novas tecnologias para evoluir e entregar soluções robustas.
 
-🎯 Foco em: **Laravel**, **Node.js**, **TypeScript**, **MySQL**, **Docker**  
+🎯 Foco em: **PHP**, **Laravel**, **MySQL** 
 📈 Buscando constante aprimoramento com boas práticas e arquitetura limpa  
 🌍 Acredito na tecnologia como agente de transformação social
 
@@ -29,8 +29,8 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/github-original.svg" width="40" />
 </div>
 
 ---
