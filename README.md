@@ -38,8 +38,8 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvinicius5&show_icons=true&include_all_commits=true&count_private=true&title_color=00a7d5&icon_color=00aaff&text_color=c9d1d9&bg_color=45,102326,01233f,03111e&border_color=f000" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&langs_count=8&bg_color=45,102326,01233f,03111e&text_color=f1f5f7&title_color=00aaff&border_color=f1f5f7&border_radius=10px" />
+ <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvinicius5&show_icons=true&include_all_commits=true&count_private=true&title_color=bb86fc&icon_color=9d4edd&text_color=e0d7f9&bg_color=45,1a0033,2a0845,3a0a63&border_color=6a0dad" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&langs_count=8&bg_color=45,1a0033,2a0845,3a0a63&text_color=e0d7f9&title_color=bb86fc&border_color=6a0dad&border_radius=10px" />
 </div>
 
 ---
