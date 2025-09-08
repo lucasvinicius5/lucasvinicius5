@@ -38,8 +38,8 @@ Sou **Lucas Vinícius**, um desenvolvedor que ama transformar ideias em código 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasvinicius5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&include_all_commits=true&layout=compact&theme=tokyonight" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasvinicius5&show_icons=true&include_all_commits=true&count_private=true&title_color=00a7d5&icon_color=00aaff&text_color=c9d1d9&bg_color=45,102326,01233f,03111e&border_color=f000" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinicius5&layout=compact&langs_count=8&bg_color=45,102326,01233f,03111e&text_color=f1f5f7&title_color=00aaff&border_color=f1f5f7&border_radius=10px" />
 </div>
 
 ---
